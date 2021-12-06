@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tyrunas
+- 👋 Hi, I’m Tyrunas
 - 👀 I’m interested in nodejs, vue, vuex, react, redux, express, next.js
-- 🌱 I’m currently learning wwebSockets
+- 🌱 I’m currently learning webSockets
 
 - 📫 How to reach me: tyrunasj@synergy.lt
 
